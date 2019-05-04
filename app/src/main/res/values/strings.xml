@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatSmartReply</string>
+    <string name="mail">name@mail.com</string>
+    <string name="login">Join</string>
+</resources>
